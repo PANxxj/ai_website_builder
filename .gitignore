@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.class
+*.py[cod]
+*.log
+*.jar
+*.sqlite3
+/media
+media/
+data.json
+static/
+.fuse*
+__pycache__
+.env
